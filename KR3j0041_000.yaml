@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3j0041/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十
+  hash: sha256:6558828ce7672044657017b2bb9c6172233a999f18551baa91b8fd0e67ea1b4b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0041_WYG_000-1a, image: WYG0852/WYG0852-0253a.png}
+body:
+  text: 緯略雜家類二雜考之屬提要臣等謹案緯略十二卷宋髙似孫撰似孫字續古餘姚人淳熙十一年進士厯官校書郎守處州似孫嘗輯經略史略子略集略騷略及此書今惟子略騷略與此書存陳振孫書録解題論其讀書以隱僻為博其作文以怪澀為竒然考證之學正不嫌其博而是編所引亦皆四庫所著録非馮贄之流詭辭炫俗者比固不得以隱僻譏也明沈士龍又稱其愍騷招隱八風圍棊氍禡牙之類全録藝文初學北堂御覽諸書無所增輯知宋世篇集不復具存適用類書誇示宏肆是誠在所不免周嬰巵林譏其悮引金樓子以劉休元水仙賦為唐劉子元踈舛亦不能無然其言篤實終出楊慎丹鉛諸録之上亦考古者所必資矣乾隆四十五年二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:1a082a9e51ebd6c98c0c8bce878470ce8d000d2362afc780451d83db1319368a
+metadata:
+  title: 緯略
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:20:45.462646'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3j0041/KR3j0041_000.txt
+hash: sha256:59943ce1293e89245c6a63f0be3007b716e63d9dbc81a86593a5e15ce5298072
